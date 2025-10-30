@@ -6,10 +6,8 @@ import QuickGlanceCard from './components/QuickGlanceCard';
 import ActivityRecommendations from './components/ActivityRecommendations';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
-
 import ThemeToggle from './components/ThemeToggle';
 import { useWeather } from './hooks/useWeather';
-
 import { useTheme } from './hooks/useTheme';
 
 function App() {

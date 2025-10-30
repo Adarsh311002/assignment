@@ -4,9 +4,28 @@ A modern, responsive weather application designed specifically for outdoor enthu
 
 ![Weather Now](https://img.shields.io/badge/React-18.2.0-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC) ![Open-Meteo API](https://img.shields.io/badge/API-Open--Meteo-green)
 
+
+## Deployed on vercel : https://assignment-virid-tau.vercel.app/
+
+## Video Demonstration : https://www.loom.com/share/f0b629870bde4345af268ffaefcc8bde
+
+## 🤖 AI Collaboration
+
+This project was developed with strategic assistance from **AI (ChatGPT)** to demonstrate modern development practices.
+Link : https://chatgpt.com/share/690313fd-c47c-8006-9101-13cd4aaeddf0
+
+
 ## 🎯 Built for Jamie - The Outdoor Enthusiast
 
 This application is specifically designed for outdoor enthusiasts who need quick, actionable weather information before heading out for activities. Unlike generic weather apps, Weather Now provides tailored recommendations and outdoor-focused metrics.
+
+## 🌐 API Endpoints Used
+
+- **Geocoding:** [https://geocoding-api.open-meteo.com/v1/search](https://geocoding-api.open-meteo.com/v1/search)  
+- **Weather Data:** [https://api.open-meteo.com/v1/forecast](https://api.open-meteo.com/v1/forecast)
+
+---
+
 
 ## ✨ Features
 
